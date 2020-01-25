@@ -19,7 +19,7 @@ To install the bindings via [Composer](http://getcomposer.org/), add the followi
     }
   ],
   "require": {
-    "heloufir/alfresco-api-php-client": "*@dev"
+    "heloufir/alfresco-api-php-client": "*"
   }
 }
 ```
