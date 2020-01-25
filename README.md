@@ -15,7 +15,7 @@ To install the bindings via [Composer](http://getcomposer.org/), add the followi
   "repositories": [
     {
       "type": "git",
-      "url": "https://github.com/rhuanbarreto/alfresco-api-php-client.git"
+      "url": "https://github.com/heloufir/alfresco-api-php-client.git"
     }
   ],
   "require": {
